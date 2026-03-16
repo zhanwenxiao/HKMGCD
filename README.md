@@ -10,6 +10,6 @@
 
 二分类变化检测数据集：https://figshare.com/articles/dataset/HKCD/30204376
 
-语义变化检测数据集：下载地址"https://pan.baidu.com/s/12c9h_iDtNmCyI-ovFjMUGg"。通过咨询邮箱"zhanwenxiao@whu.edu.cn"获取链接密码。
+语义变化检测数据集：https://doi.org/10.6084/m9.figshare.31745005
 
-建筑实例变化检测数据集：下载地址"https://pan.baidu.com/s/1DubFFnj3PdHaTuuuhnGWPg"。通过咨询邮箱"zhanwenxiao@whu.edu.cn"获取链接密码。
+建筑实例变化检测数据集：https://doi.org/10.6084/m9.figshare.31745017
